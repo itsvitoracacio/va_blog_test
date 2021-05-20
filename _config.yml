@@ -30,7 +30,7 @@ twitter_username: itsvitoracacio
 github_username: sbam-vitor
 
 # Build settings
-theme: minima-va
+theme: minima
 plugins:
   - jekyll-feed
 
