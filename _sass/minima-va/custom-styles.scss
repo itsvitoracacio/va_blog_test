@@ -5,16 +5,16 @@
     margin: 0 auto;
 }
 .aboutPage-img {
-    max-width: 100px;
-    max-height: 100px;
+    max-width: 15px;
+    max-height: 15px;
     border-radius: 50%;
     height: auto;
     float: right;
     margin: 0.45rem 0.75rem 2rem 5px;
 
     @media screen and (min-width: $on-large) {
-      max-width: 100px;
-      max-height: 100px;
+      max-width: 15px;
+      max-height: 15px;
     }
 
 }
