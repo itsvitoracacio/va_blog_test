@@ -5,12 +5,18 @@
     margin: 0 auto;
 }
 .aboutPage-img {
-    max-width: 150px;
-    max-height: 150px;
+    max-width: 120px;
+    max-height: 120px;
     border-radius: 50%;
     height: auto;
     float: right;
     margin: 0.45rem 0.75rem 2rem 5px;
+
+    @media screen and (min-width: $on-large) {
+      max-width: 150px;
+      max-height: 150px;
+    }
+
 }
 .site-title {
     text-decoration: none;
