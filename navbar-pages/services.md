@@ -17,7 +17,7 @@ See, [it takes around 0.05 seconds][50mstojudge] for us to decide whether we're 
 
 And if your website [takes more than 3 seconds to load][3secondstoload], you've already lost 53% of your visitors right then.
 
-## Why does this matter to you?
+## But why does this matter to you?
 
 Now, the reason you should care about this is because you might be burning your hard earned money trying to make your marketing strategy work on a broken site.
 
@@ -27,33 +27,33 @@ That's far from ideal, right?
 
 And that's if we're only talking about performance... Leaving out responsiveness, conversion, SEO, accessibility and much more.
 
-I know, this sounds like a lot and you can't really stop your day to day management activities to take care of this stuff.
+I know, this sounds like a lot. And you can't really stop your day to day management activities to take care of this stuff.
 
 Well...
 
 ## Here's how I can help you
 
-Over the last 5 years I've specialised in building and growing online businesses in a variety of industries.
+Over the last 5 years I've specialised in building and growing online businesses in various industries.
 
 That includes building a new lead acquisition system for a celebrity clothes designer, creating the full marketing strategy for a software company and managing a network of eCommerce websites.
 
 And as you probably imagine, a crucial step that all those projects had was building a new website, or new pages for a website, or improving an existing website.
 
-But what usually happened is that businesses often got a website made when they opened up shop — several years before — and didn't really touch it again.
+But what usually happened is that businesses often got a website made back when they opened up shop — several years before — and just didn't touch it again.
 
 (Is this you?)
 
-Then everything we had to do required much more time going around platform limitations and coming up with quick fixes to make everything work.
+So everything we had to do required much more time going around platform limitations and coming up with quick fixes to make everything work.
 
 That meant more time and money to be added to the cost of the project for the busines owner.
 
-And this is why I decided to change focus and specialise in building websites with a cutting edge structure, making them ready for that profitable marketing strategy you need to deploy.
+And this is why, after years working with it, I decided to change focus and specialise in building websites with a cutting edge structure, making them ready for that profitable marketing strategy you need to deploy.
 
 So in order to build a stunning portfolio on this specific area as fast as I can, I'm offering this only to a few small businesses...
 
 ### Here's what you'll get:
 
-Your own online hub that's ready for you to drive traffic to, where you can install advetising and tracking pixels, create high converting landing pages and set up lead magnets.
+Your own online hub that's ready for you to drive traffic to, where you can install advertising and tracking pixels, create high converting landing pages and set up lead magnets.
 
 A powerful platform for your customers to learn about your products and services.
 
@@ -67,7 +67,7 @@ The best asset for building credibility to your business.
 - All pages custom coded
 - Content management system installation
 - Essential on-page SEO
-- Lighning fast performance
+- Lightning fast performance
 - 3-week delivery
 - 30 days of support, including changes
 
@@ -75,7 +75,7 @@ And I'm offering this to you <span class="highlight">at a 50% discount, for only
 
 As soon as I have a robust portfolio for this service, I'll begin marketing it and will need to raise the price.
 
-I'm expecting this to sell fast and I can only keep it going until my schedule is full. You do not want to miss out.
+As for this current offer, I can only keep it going until my schedule is full. And I think you do not want to miss out.
 
 ### Here's what you need to do
 
