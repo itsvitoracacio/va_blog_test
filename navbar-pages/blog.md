@@ -1,11 +1,8 @@
 ---
-layout: page
+layout: blog
 title: Blog
+visible-title: Blog Archives
 permalink: /blog
-order: 4
+lang: 🇺🇸
+ref: blog
 ---
-## Under Construction
-
-How about coming back in a few days?
-
-While you're here, check out [this page](/about).

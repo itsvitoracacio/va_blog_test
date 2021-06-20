@@ -1,12 +1,16 @@
 ---
 layout: post
-title: Committing $250k this Year to Racial Justice Efforts
-date: 2020-06-15 12:14:37 -0300
-categories: jekyll update marketing
-ref: post1
-permalink: /post1
-lang: 🇧🇷
+title: Juntando the Netlify Board to Help Shape the Future of JAMstack
+date: 2020-03-04 12:14:37 -0300
+categories: jekyll marketing onlinebusiness blockchain
+permalink: post3
+lang: 🇺🇸
 ---
+
+[post1][1]
+
+[1]: {% post_url 2021-05-19-welcome-to-jekyll %}
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:

@@ -1,0 +1,31 @@
+<!-- Add backlinks to the current page -->
+{%- assign link_count = 0 -%}
+
+{%- for post_u in site.posts -%}
+        {%- if post_u.url != page.url -%}
+            {%- if post_u.content contains page.url -%}
+                {%- assign link_count = link_count | plus:1 -%}
+            {%- endif -%}
+    {%- endif -%}
+{%- endfor -%}
+
+{%- if link_count > 0 -%}
+<div class="related-posts">
+    <h4>{{ site.data.translations.[page.lang].main-content.related-posts }}</h4>
+        <ul>
+        {%- for post_u in site.posts -%}
+            {%- if post_u.url != page.url -%}
+                {%- if post_u.content contains page.url -%}
+                    <li>
+                      <p class="post-list-heading">»
+                        <a class="post-link" href="{{ post_u.url | relative_url }}">
+                          {{ post_u.title | escape }}
+                        </a>
+                      </p>
+                    </li>
+                {%- endif -%}
+            {%- endif -%}
+        {%- endfor -%}
+        </ul>
+</div>
+{%- endif -%}

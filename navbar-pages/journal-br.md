@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Projects
-permalink: /projects
-lang: 🇺🇸
-ref: projects
+title: Diário
+permalink: /diario
+lang: 🇧🇷
+ref: journal
 ---
-
 # This Page Is Under Construction
 
 Well... this is... embarrassing... It seems like you came in a bit too early. How about checking back in a few days, eh?

@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<div class="blog-page">
+  {%- if page.title -%}
+    <h1 class="page-heading category-page-heading">{{ page.title }} Archive</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+
+    {%- include post-list.html -%}
+
+</div>

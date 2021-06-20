@@ -1,23 +1,120 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
 .site-header .wrapper {
-    padding: 10px 5%;
-    margin: 0 auto;
+  padding: 10px 5%;
+  margin: 0 auto;
 }
-.aboutPage-img {
-    max-width: 120px;
-    max-height: 120px;
-    border-radius: 50%;
-    height: auto;
-    float: right;
-    margin: 0.45rem 0.75rem 2rem 5px;
 
-    @media screen and (min-width: $on-large) {
-      max-width: 150px;
-      max-height: 150px;
+.site-title {
+  text-decoration: none;
+}
+
+.en:lang(en),
+.pt:lang(pt) {
+  font-weight: bold;
+}
+
+.aboutPage-img {
+  max-width: 120px;
+  max-height: 120px;
+  border-radius: 50%;
+  height: auto;
+  float: right;
+  margin: 0.45rem 0.75rem 2rem 5px;
+
+  @media screen and (min-width: $on-large) {
+    max-width: 150px;
+    max-height: 150px;
+  }
+}
+
+// LIVE PAGE
+
+.live-page-visible-title {
+  font-size: 2rem;
+  margin-bottom: 0;
+}
+.page-description {
+  font-size: 0.85rem;
+  margin-bottom: $spacing-unit;
+}
+
+// BLOG PAGE
+.post-list-heading {
+  margin-top: 0;
+  margin-bottom: 0;
+  display: inline-block;
+}
+
+.category-page-heading {
+  margin-bottom: $spacing-unit;
+}
+
+// ARTICLE PAGE
+.posts-archive {
+  font-family: lato, sans-serif;
+  text-align: center;
+  font-size: $base-font-size;
+  margin-top: $spacing-unit * 1.5;
+  margin-bottom: $spacing-unit;
+
+  > p {
+    margin-bottom: 0;
+  }
+}
+
+.related-posts {
+  font-family: lato, sans-serif;
+  //margin-bottom: $spacing-unit * 0.75;
+
+  > h4 {
+    margin-bottom: 0;
+  }
+
+  > ul {
+    list-style-type: none;
+    margin-left: $spacing-unit / 2;
+    margin-bottom: 0;
+
+    > li {
+      margin-bottom: $spacing-unit / 4;
+
+      &:last-child {
+        margin-bottom: 0;
+      }
+
+      > p {
+        font-size: $medium-font-size;
+      }
+    }
+  }
+}
+
+//NAVBAR
+@media screen and (max-width: $on-palm) {
+  .lang-selector-wrapper {
+    .page-link {
+      padding-bottom: 7px;
+      padding-left: 10px;
+      padding-right: 7px;
+      font-size: 0.8em;
     }
 
-}
-.site-title {
-    text-decoration: none;
+    &:hover {
+      .page-link {
+        border-right-width: 0;
+        margin-left: -1px;
+        border-bottom: 1px solid #dedede;
+        border-bottom-left-radius: 10%;
+        border-bottom-right-radius: 0;
+        border-top-right-radius: 0;
+      }
+
+      .lang-alt .lang-selector {
+        border-top: 1px solid #dedede;
+        border-bottom-left-radius: 0;
+        border-top-left-radius: 0;
+      }
+    }
+  }
 }

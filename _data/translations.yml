@@ -1,0 +1,55 @@
+🇺🇸:
+    navbar:
+        about:
+            name: "About"
+            url: /about
+        services:
+            name: "Services"
+            url: /services
+        projects:
+            name: "Projects"
+            url: /projects
+        journal:
+            name: "Journal"
+            url: /journal
+        blog:
+            name: "Blog"
+            url: /blog
+
+    footer:
+        line1: made with my 👋 in Belo Horizonte
+        line2: this website <a href="/privacy-notice">only collects data</a> you actively submit
+
+    main-content:
+        see-all-posts: see all posts
+        related-posts: Related Posts
+        see-full-archive1: see the full
+        see-full-archive2: archive
+
+
+🇧🇷:
+    navbar:
+        about:
+            name: "Sobre"
+            url: /sobre
+        services:
+            name: Serviços
+            url: /servicos
+        projects:
+            name: "Projetos"
+            url: /projetos
+        journal:
+            name: "Diário"
+            url: /diario
+        blog:
+            name: Blog
+            url: /blog-br
+
+    footer:
+        line1: feito com minhas 👋 em Belo Horizonte
+        line2: este site <a href="/privacy-notice">só coleta dados</a> que você escolhe enviar
+
+    main-content:
+        see-all-posts: veja todos os post
+        related-posts: Posts Relacionados
+        see-full-archive1: veja o arquivo completo sobre

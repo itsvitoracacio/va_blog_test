@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Projects
-permalink: /projects
-lang: 🇺🇸
-ref: projects
+title: Serviços
+permalink: /servicos
+lang: 🇧🇷
+ref: services
 ---
 
 # This Page Is Under Construction

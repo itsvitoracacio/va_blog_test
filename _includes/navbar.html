@@ -1,0 +1,45 @@
+          {% for menu in site.data.translations.[page.lang].navbar %}
+              <a class="page-link {% if menu[1].url == page.url %}active{% endif %}" href="{{ menu[1].url }}">{{ menu[1].name }}</a>
+          {% endfor %}
+
+          <span class="lang-selector-wrapper"><a class="page-link" class="{{ page.lang }}">{{ page.lang }}</a>
+
+          {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+          {% if posts.size == 1 %}
+            <a class="lang-alt" class="{{ post-item.lang }}">
+                <div class="lang-selector">
+                ❌
+                </div>
+            </a>
+          {% else %}
+              {% for post-item in posts %}
+                {% unless post-item.lang == page.lang %}
+                    <a class="lang-alt" href="{{ post-item.url }}" class="{{ post-item.lang }}">
+                        <div class="lang-selector">
+                        {{ post-item.lang }}
+                        </div>
+                    </a>
+                {% endunless %}
+              {% endfor %}
+          {% endif %}
+
+          {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+          {% if pages.size == 1 %}
+            <a class="lang-alt" class="{{ post-item.lang }}">
+                <div class="lang-selector">
+                ❌
+                </div>
+            </a>
+          {% else %}
+              {% for page-item in pages %}
+                {% unless page-item.lang == page.lang %}
+                    <a class="lang-alt" href="{{ page-item.url }}" class="{{ page-item.lang }}">
+                        <div class="lang-selector">
+                            {{ page-item.lang }}
+                        </div>
+                    </a>
+                  {% endunless %}
+              {% endfor %}
+          {% endif %}
+
+          </span>

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Projects
-permalink: /projects
-lang: 🇺🇸
+title: Projetos
+permalink: /projetos
+lang: 🇧🇷
 ref: projects
 ---
 

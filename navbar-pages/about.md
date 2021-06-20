@@ -2,24 +2,24 @@
 layout: page
 title: About
 permalink: /about
-order: 1
+lang: 🇺🇸
+ref: about
 ---
-
-## Hello.
+# Hey, I'm Vitor.
 
 ![Vitor smiling at you](/assets/img/vitor-profile-square.jpg "Vitor Acacio"){:class="aboutPage-img"}
 
-I'm Vitor, a [marketing consultant](#) to the online business industry (and to brick & mortar businesses that want to start selling online).
+I'm an international [marketing consultant](/services) to the online business industry (and to brick & mortar businesses that want to start selling online).
 
-I also [build online businesses](#) myself and publicly [document my journey](#).
+I'm also a hobbyist web dev just getting into blockchain, and proud pet-parent. 🐈
 
-Here you'll find [quick actionable lessons and thoughts](#) straight from <span class="highlight">the trenches of online business</span>, as well as the [latest stuff I'm learning](#) about <span class="highlight">blockchain & crypto</span>.
+Here you'll find <span class="highlight">quick actionable lessons</span> from [the small business trenches](/smallbiz), as well as my <span class="highlight">live documented journey</span> on [building online products](/onlinebuilding), and the <span class="highlight">latest stuff I'm learning</span> about [blockchain & crypto](/blockchain).
 
 If you're into that, I can [let you know](#) when I drop the next piece.
 
-Here's [how it all started](#) And if you're interested, this is [what I'm up to](#).
+And if you wanna know more, this is [what I'm up to](/now) and the [projects](/projects) I'm involved with.
 
-You can reach out to me on [twitter](#) and [telegram](#) or over at vitor@vitoracacio.com (best option).
+You can reach out to me on [twitter](https://twitter.com/{{ site.twitter_username }}) and [telegram](https://t.me/{{ site.telegram_username }}) or over at {{ site.email }}.
 
 Thanks for dropping by!
 
