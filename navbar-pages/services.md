@@ -71,13 +71,13 @@ The best asset for building credibility to your business.
 - 3-week delivery
 - 30 days of support, including changes
 
-And I'm offering this to you at a 50% discount for only $1,500 at this time.
+And I'm offering this to you <span class="highlight">at a 50% discount, for only $1,500</span> at this time.
 
 As soon as I have a robust portfolio for this service, I'll begin marketing it and will need to raise the price.
 
 I'm expecting this to sell fast and I can only keep it going until my schedule is full. You do not want to miss out.
 
-### What you need to do
+### Here's what you need to do
 
 Answer these quick questions below and I'll get back to you about working together on your website. 
 
